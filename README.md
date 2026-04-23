@@ -29,6 +29,7 @@ This reflects a real-world transition from legacy deployment models to modern en
 ## Project Structure
 
 
+```
 enterprise-endpoint-management-lab/
 │
 ├── README.md
@@ -41,6 +42,7 @@ enterprise-endpoint-management-lab/
 ├── 06-compliance-and-security/
 ├── 07-automation-and-validation/
 └── 08-operational-troubleshooting/
+```
 
 
 Each module represents a key stage in the **enterprise endpoint lifecycle**.
