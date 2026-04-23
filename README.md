@@ -12,7 +12,7 @@ Instead of focusing on a single technology, this project demonstrates a **full d
 
 ## Architecture Overview
 
-![Architecture Diagram](01-architecture/images/architecture.png)
+![Architecture Diagram](01-Architecture/images/architecture.png)
 
 This architecture represents a hybrid model where:
 
